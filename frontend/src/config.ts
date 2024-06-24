@@ -1,1 +1,1 @@
-export const BACKEND_URL = "http://localhost:8787"
+export const BACKEND_URL = "https://aawaz-cf.leorai259.workers.dev"
